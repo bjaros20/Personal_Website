@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Ben Jaros",
-    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjo0LCJtb3V0aCI6MTcsImV5ZXMiOjAsImV5ZWJyb3dzIjozLCJnbGFzc2VzIjoxMCwiaGFpciI6MzUsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MSwiY29sb3IiOiJyZ2JhKDI1NSwgMCwgMCwgMCkiLCJzaGFwZSI6Im5vbmUifQ==", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/images/Ben Jaros.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Economics PhD Candidate",
     bio: "SALT Economist",
     email: "bjaros@clemson.edu",

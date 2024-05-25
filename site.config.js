@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Ben Jaros",
-    image: "/images/Ben Jaros.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/images/Ben-Jaros.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Economics PhD Candidate",
     bio: "SALT Economist",
     email: "bjaros@clemson.edu",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "SALT Blog",
+    title: "Personal Website",
     description: "Blog on items with some armchair economist thoughts, generally in the tax space.",
   },
 

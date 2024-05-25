@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Economics PhD Candidate",
     bio: "SALT Economist",
     email: "bjaros@clemson.edu",
-    linkedin: "https://www.linkedin.com/in/benjamin-jaros-a3a318121/",
+    linkedin: "www.linkedin.com/in/benjamin-jaros-a3a318121",
     github: "bjaros20",
     instagram: "",
   },

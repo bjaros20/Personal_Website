@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    name: "Ben Jaros",
+    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjo0LCJtb3V0aCI6MTcsImV5ZXMiOjAsImV5ZWJyb3dzIjozLCJnbGFzc2VzIjoxMCwiaGFpciI6MzUsImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MSwiY29sb3IiOiJyZ2JhKDI1NSwgMCwgMCwgMCkiLCJzaGFwZSI6Im5vbmUifQ==", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Economics PhD Candidate",
+    bio: "SALT Economist",
+    email: "bjaros@clemson.edu",
+    linkedin: "https://www.linkedin.com/in/benjamin-jaros-a3a318121/",
+    github: "bjaros20",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Personal Website`,
+      href: "https://github.com/bjaros20/Personal_Website.git",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "SALT Blog",
+    description: "Blog on items with some armchair economist thoughts, generally in the tax space.",
   },
 
   // CONFIG configration (required)
@@ -53,7 +53,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",

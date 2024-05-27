@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Ben Jaros",
     image: "/images/headshot_jaros.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Economics PhD Candidate",
-    bio: "Research interests are in public finance, financial economics, and economic history.",
+    bio: "Research interests in public finance, financial economics, and economic history.",
     email: "bjaros@clemson.edu",
     linkedin: "",
     github: "bjaros20",

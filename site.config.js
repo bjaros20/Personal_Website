@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Economics PhD Candidate",
     bio: "Striving for a 'virtuous friendship with learning'.",
     email: "bjaros@clemson.edu",
-    linkedin: "/in/benjamin-jaros-a3a318121",
+    linkedin: "",
     github: "bjaros20",
     instagram: "",
   },
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Personal Website",
-    description: "Blog on items with some armchair economist thoughts, generally in the tax space.",
+    description: "Blog on items with some thoughts, generally in the tax space.",
   },
 
   // CONFIG configration (required)

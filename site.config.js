@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Ben Jaros",
+    name: "Benjamin Jaros",
     image: "/images/headshot_jaros.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Economics PhD Candidate",
     bio: "Research interests in public finance, financial economics, and economic history.",
@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Personal Website`,
+      name: `Home`,
       href: "https://github.com/bjaros20/Personal_Website.git",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Personal Website",
+    title: "Link to Site in Github",
     description: "Blog on items with some thoughts, generally in the tax space.",
   },
 

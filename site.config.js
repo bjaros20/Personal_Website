@@ -2,11 +2,11 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Ben Jaros",
-    image: "/images/Ben-Jaros.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/images/headshot_jaros.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Economics PhD Candidate",
-    bio: "Striving for a 'virtuous friendship with learning'.",
+    bio: "Research interests in public finance, financial economics, and economic history.",
     email: "bjaros@clemson.edu",
-    linkedin: "in/benjamin-jaros-a3a318121",
+    linkedin: "",
     github: "bjaros20",
     instagram: "",
   },
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Personal Website",
-    description: "Blog on items with some armchair economist thoughts, generally in the tax space.",
+    description: "Blog on items with some thoughts, generally in the tax space.",
   },
 
   // CONFIG configration (required)
@@ -30,7 +30,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: "83553840ae314c23b20e1ae2d67006ae",
   },
 
   // plugin configuration (optional)

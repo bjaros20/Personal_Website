@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Home`,
+      name: `personal-website repository`,
       href: "https://github.com/bjaros20/Personal_Website.git",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Link to Site in Github",
+    title: "Homepage",
     description: "Blog on items with some thoughts, generally in the tax space.",
   },
 

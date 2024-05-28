@@ -1,12 +1,17 @@
-import React from 'react';
+import React, { ReactNode } from 'react'; // Import ReactNode type
 import Banner from '../components/Banner';
 
-const Layout = ({ children }) => {
+// Specify the type of props, including the children prop
+interface LayoutProps {
+  children: ReactNode;
+}
+
+// Use the specified props type
+const Layout = ({ children }: LayoutProps) => {
   return (
     <div className="layout">
       <Banner />
-      <main>{children}</main>
-      {/* Other components or content */}
+      {children}
     </div>
   );
 };

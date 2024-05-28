@@ -20,6 +20,7 @@ export const colors = {
     ...blue,
     ...red,
     ...green,
+    background: "#ffffff", //white background
   },
   dark: {
     ...indigoDark,
@@ -27,5 +28,6 @@ export const colors = {
     ...blueDark,
     ...redDark,
     ...greenDark,
+    background: "f0f0f0", //light gray background
   },
 }

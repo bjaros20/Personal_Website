@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `personal-website repository`,
+      name: `personal_website repository`,
       href: "https://github.com/bjaros20/Personal_Website.git",
     },
   ],
